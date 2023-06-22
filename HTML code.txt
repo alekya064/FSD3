@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <link href=https://clv.h-cdn.co/assets/18/02/4000x2229/gallery-1515470256-levi-guzman-268866.jpg
+rel="stylesheet">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <!-- 
+        Challenge 1:
+        Write the HTML for your personal website.
+        -->
+        <h1> me about my friends </h1>
+   <img src="r5">
+   <h2> some facts about my friends </h2>
+   <h3> daily routine of my friends actually</h3>
+   <button> wake up </button>
+   <button> brush their teeth</button>
+   <button>bath if they wanted or no bath </button>
+   <button> eat breakfast </button>
+   <button> doing some chores</button>
+   <button> again eating </button>
+   <button> sleep for sometime </button>
+   <button> wake up</button>
+   <button> go for a evening walk </button>
+   <button> fresh up </button>
+   <button> eat dinner </button>
+   <button> sleep </button>
+   <table>
+       <tr>
+           <th>name</th>
+           <th>birthday</th>
+	   <th>age</th>
+           <th>favourite food  </th>
+           <th>hobbies</th>
+	
+       </tr>
+   </table>
+   <table>
+       <tr>
+           <th>sravya</th>
+           <th>10-12-2003</th>
+           <th>19</th>
+           <th>panipuri</th>
+           <th>dancing</th>
+       </tr>
+           </table>
+    </body>
+</html>
